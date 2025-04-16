@@ -1,0 +1,123 @@
+{
+  "seller": [
+    {
+      "id": "44ec",
+      "name": "Nidhi Ponnalwar",
+      "password": "Nidhi@123",
+      "email": "nidhi@seller.com"
+    },
+    {
+      "id": "197c",
+      "name": "Jitesh Kumar",
+      "password": "jitesh@123",
+      "email": "jitesh@seller.com"
+    }
+  ],
+  "products": [
+    {
+      "name": "Iphone 14",
+      "price": "80000",
+      "category": "mobile",
+      "color": " blue",
+      "description": "good quality and best choice",
+      "image": "https://cdn.pixabay.com/photo/2022/09/25/22/25/iphones-7479304_1280.jpg",
+      "id": "c6da"
+    },
+    {
+      "name": "Hp laptop",
+      "price": "50000",
+      "category": "laptop",
+      "color": "black",
+      "description": "good product",
+      "image": "https://cdn.pixabay.com/photo/2014/04/03/11/54/laptop-312499_1280.png",
+      "id": "5108"
+    },
+    {
+      "name": "Diamond Necklace",
+      "price": "200000",
+      "category": "jellwery",
+      "color": "silver",
+      "description": "very good product",
+      "image": "https://cdn.pixabay.com/photo/2010/12/13/09/59/jewellery-2044_1280.jpg",
+      "id": "5bea"
+    },
+    {
+      "name": "Boat Watch",
+      "price": "3000",
+      "category": "Watch",
+      "color": "black",
+      "description": "good quality product",
+      "image": "https://cdn.pixabay.com/photo/2015/06/25/17/21/smart-watch-821557_1280.jpg",
+      "id": "cf97"
+    },
+    {
+      "name": "Adidas shoes",
+      "price": "1000",
+      "category": "shoes",
+      "color": "white",
+      "description": "Good running for wearing this shoes",
+      "image": "https://cdn.pixabay.com/photo/2022/08/19/04/30/shoes-7396101_1280.jpg",
+      "id": "061e"
+    },
+    {
+      "id": "4e50",
+      "name": "kitchen Crockery",
+      "price": "1500",
+      "category": "Crockery",
+      "color": "red",
+      "description": "good quality",
+      "image": "https://cdn.pixabay.com/photo/2012/03/07/22/52/cutlery-22483_1280.jpg"
+    },
+    {
+      "id": "572f",
+      "name": "Apple Fruit",
+      "price": "30",
+      "category": "Fruit",
+      "color": "Red",
+      "description": "Good for Health",
+      "image": "https://cdn.pixabay.com/photo/2015/07/07/08/24/apple-834100_1280.jpg"
+    },
+    {
+      "id": "1a51",
+      "name": "Sunflower",
+      "price": "100",
+      "category": "Flower",
+      "color": "yellow",
+      "description": "",
+      "image": "https://media.istockphoto.com/id/182776799/photo/field-of-sunflowers.jpg?s=2048x2048&w=is&k=20&c=968vWuKUA5BUXE8F5qDVqm3kEcQzQLWTIkQwaBTPniA="
+    }
+  ],
+  "users": [
+    {
+      "id": "c750",
+      "name": "nidhi",
+      "email": "nidhi@user.com",
+      "password": "1234"
+    },
+    {
+      "id": "8084",
+      "name": "peter",
+      "email": "peter@user.com",
+      "password": "abc123"
+    }
+  ],
+  "cart": [],
+  "orders": [
+    {
+      "id": "0a13",
+      "email": "nidhiponnalwar1999@gmail.com",
+      "address": "148,Dattatray nagar,near NIT garden, Nagpur",
+      "contact": "8806922208",
+      "totalPrice": 7700,
+      "userId": "c750"
+    },
+    {
+      "id": "a778",
+      "email": "nidhi@seller.com",
+      "address": "148 dattatray nagar nagpur",
+      "contact": "98789",
+      "totalPrice": 4600,
+      "userId": "c750"
+    }
+  ]
+}
