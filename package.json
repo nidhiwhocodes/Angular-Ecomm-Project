@@ -4,7 +4,6 @@
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
-    "json-server": "json-server --watch db.json --port 3000",
     "build": "ng build",
     "vercel-build": "npm install --legacy-peer-deps && npm run build",
     "watch": "ng build --watch --configuration development",
@@ -24,6 +23,7 @@
     "@ng-bootstrap/ng-bootstrap": "^18.0.0",
     "@popperjs/core": "^2.10.2",
     "bootstrap": "^5.3.5",
+    "json-server": "^1.0.0-beta.3",
     "rxjs": "~7.8.0",
     "tslib": "^2.3.0",
     "zone.js": "~0.15.0"
